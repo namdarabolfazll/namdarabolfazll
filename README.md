@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Abolfazl!
 
-I'm a passionate Python developer and web developer focused on building powerful backend systems with Django and clean, responsive frontends with HTML & CSS.
 
 ---
 
