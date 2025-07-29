@@ -18,8 +18,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namdarabolfazll&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namdarabolfazll&layout=compact&theme=dark)
-
 ---
 
 ## 🔥 GitHub Streak
