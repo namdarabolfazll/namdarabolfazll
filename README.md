@@ -13,9 +13,3 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ---
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=namdarabolfazll&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
